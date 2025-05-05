@@ -1,6 +1,5 @@
 # Ananth Gopal's portfolio - AI and Software Projects
 
-This portfolio showcases three key projects I've developed that demonstrate my expertise in AI integration, full-stack development, and innovative problem-solving.
 - [AI-Powered Video Recruitment Platform](#ai-powered-video-recruitment-platform)
 - [Bolo AI: Voice-Based Quiz Platform](#voice-based-quiz-platform)
 - [Fully automated website Developer & Tester (Langgraph)](#agentic-website-developer)
